@@ -1,3 +1,7 @@
+# Class-5-Assignment
+
+A small assignment given to me in Class 5 of Quarter 2 - Learning Next.js<<<<<<< HEAD
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
